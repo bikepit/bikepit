@@ -120,15 +120,19 @@ ul.posts span {
 }
 
 .site .header .navigation {
+  list-style-type: none;
   overflow: hidden;
   font-size: 90%;
   margin-top: 2em;
 }
 
+.site .header .navigation li {
+  display: inline;
+}
+
 .site .header a.extra {
   color: #aaa;
   margin-right: 1em;
-  //float: right;
 }
 
 .site .header a.extra:visited {
@@ -170,8 +174,13 @@ ul.posts span {
 }
 
 .footer .navigation { 
+  list-style-type: none;
   text-align: center;
   margin-bottom: 1em; 
+}
+
+.footer .navigation li {
+  display: inline;
 }
 
 .footer a.extra {
