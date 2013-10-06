@@ -1,34 +1,66 @@
 ---
 layout: default
-title: Bike Pit Schedule
+title: Schedule
 ---
 
-# Programs and Schedule
+# Schedule
+
+The following are the dates and times of our programs and events.
+
+## October, 2013
+***
+| Date                  | Time   | What                                                   |
+|-----------------------|--------|--------------------------------------------------------|
+| Monday, October 7th   | 4-8 PM | [Fix-a-Bike](#fix)                           |
+| Tuesday, October 8th  | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
+| Friday, October 11th  | 4-8 PM | [Fix-a-Bike](#fix)                           |
+| Monday, October 14th  | 4-8 PM | [Fix-a-Bike](#fix)                           |
+| Tuesday, October 15th | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
+| Friday, October 18th  | 4-8 PM | [Fix-a-Bike](#fix)                           |
+| Monday, October 21st  | 4-8 PM | [Fix-a-Bike](#fix)                           |
+| Tuesday, October 22nd | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
+| Friday, October 25th  | 4-8 PM | [Fix-a-Bike](#fix)                           |
+
+* We are [closed for volunteer training](/participate/) the week of __October 27th__. We will reopen on Monday, November 4th with [winter hours](/2013/10/6/winter-at-the-bike-pit.html)!
+
+***
+
+<a id="programs"></a>
+
+# Programs
 
 The following are the programs we host at the Bike Pit. All programs are staffed by volunteers. Participation in the programs and materials are free of charge.
 
-## [Fix-A-Bike](/schedule/fixabike)
+<a id="fix"></a>
+
+## Fix-A-Bike
 Anyone who has a bicycle can come to the shop and fix their bike.
 
 _Every Monday and Friday, 4-8pm_
 
 ***
 
-## [Build-A-Bike](/schedule/buildabike)
+<a id="build"></a>
+
+## Build-A-Bike
 People without a bicycle can come on these days and enter a lottery to build a bike.
 
 _First Thursday 4-8PM_
 
 ***
 
-## [Women and Trans Shop Hours](/schedule/tuesday)
+<a id="womenandtrans"></a>
+
+## Women and Trans Shop Hours <a id="womenandtrans"></a>
 Women and transgendered folk can come on this night to fix their bikes.
 
 _Every Tuesday 4-8PM_
 
 ***
 
-## [Kid's Day](/schedule/kids)
+<a id="kids"></a>
+
+## Kid's Day
 A day for children to work on their bikes.
 
 _Second Sunday 2-4PM_

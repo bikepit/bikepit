@@ -6,9 +6,14 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript" src="/js/main.js"></script>
+
         <!-- Custom CSS -->
+        <link rel="stylesheet" href="/fonts/bevan/stylesheet.css">
         <link rel="stylesheet" href="/css/main.css">
-        <link rel="stylesheet" href="/fonts/opensans_bold_macroman/stylesheet.css">
+        <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+
         <link href='http://fonts.googleapis.com/css?family=Nunito:300,700' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700' rel='stylesheet' type='text/css'>
 
@@ -19,11 +24,13 @@
           <div class="container">
             <div class="header">
               <a class="title" href="/">{{ site.name }}</a>
-              <a class="extra" href="/contact">Contact</a>
-              <a class="extra" href="/learn/">Learn</a>
-              <a class="extra" href="/participate/">Participate</a>
-              <a class="extra" href="/schedule/">Schedule</a>
-              <a class="extra" href="/about/">About</a>
+              <div class="navigation">
+                <a class="extra" href="/about">About</a>
+                <a class="extra" href="/news/">News</a>
+                <a class="extra" href="/schedule/">Schedule</a>
+                <a class="extra heart" href="/participate/">Participate</a>
+                <a class="extra" href="/contact">Contact</a>
+              </div>
             </div>
             <div class=".writing">
               {{ content }}
@@ -32,11 +39,26 @@
         </div>
         <div class="footer">
           <div class="foot-body">
-            <div class="contact right text-right">
-              The Bike Pit</br>
-              411 Lipan St.</br>
-              Denver, CO 80204
+            <div class="navigation">
+              <a class="extra" href="/about">About</a>
+              <a class="extra" href="/news/">News</a>
+              <a class="extra" href="/schedule/">Schedule</a>
+              <a class="extra" href="/participate/">Participate</a>
+              <a class="extra" href="/contact">Contact</a>
             </div>
+            <hr/>
+            <div class="location">
+              <span>
+              The Bike Pit!
+              <br/>
+              411 Lipan St. 
+              <br/>
+              Denver, CO 80204
+              </span>
+            </div>
+            <span class="email">
+              411bikepit@gmail.com 
+            </span>
           </div>
         </div>
     </body>

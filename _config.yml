@@ -1,3 +1,5 @@
-name: BIKE PIT
+name: BIKE PIT!
 markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
 pygments: true
