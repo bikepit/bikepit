@@ -21,7 +21,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  //font-family: 'Libre Baskerville';
   font-size: 100%;
 }
 
@@ -183,6 +182,11 @@ ul.posts span {
   display: inline;
 }
 
+.footer a {
+  text-decoration: none;
+  color: #555; 
+}
+
 .footer a.extra {
   font-weight: bold;
   text-decoration: none;
@@ -199,7 +203,6 @@ ul.posts span {
   color: #a00;
 }
 
-
 .footer .location, .footer .email { 
   font-size: 0.75em; 
   color: #555; 
@@ -209,7 +212,7 @@ ul.posts span {
   transition: color 0.075s;
 }
 
-.footer .location span:hover, .footer .email:hover {
+.footer .location a:hover, .footer .email:hover {
   color: #aaa;
 }
 
@@ -220,6 +223,7 @@ ul.posts span {
 .text-left {text-align: left;}
 .text-right {text-align: right;}
 .text-center {text-align: center;}
+.break {height: 1em;}
 
 /*****************************************************************************/
 /*

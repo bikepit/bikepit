@@ -11,13 +11,12 @@ Do you...
 * Have suggestions?
 * Have an interest in getting involved?
 
-If so, please feel free to contact us by email at
+If so, please feel free to contact us at
 
-***
-__411bikepit@gmail.com__
-***
+__[411bikepit@gmail.com](mailto:411bikepit@gmail.com)__
 
-or find us on [facebook](http://www.facebook.com/411bikepit).
+
+or find us on [facebook](http://www.facebook.com/411bikepit). We also love talking to people in person.
 
 ## Location
 
