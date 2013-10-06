@@ -14,7 +14,6 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  //font: 1.1em 'open_sansregular', Arial, sans-serif;
   font: 1.1em 'Nunito', Arial, sans-serif;
   text-align: center;
   text-rendering: optimizeLegibility;
@@ -73,6 +72,34 @@ ul.posts span {
   font-size: 80%;
 }
 
+.post hr{
+  margin: 2em 0;
+}
+
+.post:last-of-type hr {display: none;}
+
+.post .title {
+  margin-bottom: 0.25em;
+}
+
+.post .title a {
+  text-decoration: none;
+  color: #000;
+  transition: color 0.075s; 
+}
+
+.post .title a:hover {
+  color: #a00;
+}
+
+.post .date {
+  font-size: 0.9em;
+  color: #aaa;
+}
+
+.post .excerpt {
+
+}
 /*****************************************************************************/
 /*
 /* Site

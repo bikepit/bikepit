@@ -21,7 +21,7 @@ The following are the dates and times of our programs and events.
 | Tuesday, October 22nd | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
 | Friday, October 25th  | 4-8 PM | [Fix-a-Bike](#fix)                           |
 
-* We are [closed for volunteer training](/participate/) the week of __October 27th__. We will reopen on Monday, November 4th with [winter hours](/2013/10/6/winter-at-the-bike-pit.html)!
+* We are [closed for volunteer training](/news/2013/10/07/volunteer-training.html) the week of __October 27th__. We will reopen on Monday, November 4th with [winter hours](/news/2013/10/07/winter-at-the-bike-pit.html)!
 
 ***
 
