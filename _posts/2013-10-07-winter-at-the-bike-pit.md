@@ -8,36 +8,28 @@ Winter is coming. Winter Hours are going to start in November. We will be open M
 
 We also created this Winter Projects list, which we welcome help from anyone with:
 
-- shed 2.0 with yard lighting system
-- eradicate all unusable parts from the yard
-- develop a system for quick processing of donations
-- wall for gay-rage door opening with door and insulation
-- show organization team  
-- tire/tube system
-- remove trash but not gravel to dumpster--richard is bottom lining this
-- remove thorn plants from yard--richard also bottom lining
-- get scrap metal out of yard--sam can bottom line this by talking to scrappin adam
-- make a bike snow plow  
-- fix frames with wheel sets  
-- tune bikes for easy fixing for builds (maybe build prep is a better term? checking to make sure nothing is seized on the bike, etc.)  
-- clean outside  
-- strip bikes  
-- coffee space  
-- keep things from rusting (magic?)  
-- make/obtain locks for people  
-- fridge  
-- post shop norms  
-- start using chalkboard calendar-->get chalk markers  
-- implement free grocery store/ free snacks for all!  
-- drainage for yard  
-- call dave bower about donations  
-- classes, figure out schedule, etc.  
-- finish welding frames onto fence/make cement moat  
-- make signs for above garage door/fence facing lipan  
-- get water tight holders for schedules and info  
-- finish stripping deck (paint/winterize)  
-- ink cartridge for printer machine monster thing  
-- no more castle of trash in yard!!!!!  
+- Finishing the shed outside.
+- Getting rid of all unusable parts and frames.
+- Developing a workflow for quick and easy processing of donations.
+- Building a portable, insulated wall for the gay-rage door opening.
+- Organizing shows.
+- Organizing the tire and tube system.
+- Making a bike snow plow.
+- Fixing frames with wheel sets.
+- Prepping bikes for easy builds.
+- Cleaning outside.
+- Stripping bikes.
+- Organizing the coffee space.
+- Keeping things from rusting. (magic?)  
+- Obtain bike locks.
+- Fixing the fridge.  
+- Making a sign for shop norms.  
+- Implement a free grocery store. Free snacks for all <span class="icon-heart"></span>
+- Making a drainage system for the yard.
+- Making signs for the exterior of Bike Pit.
+- Making our printed materials water-proof.
+- Winterizing the stripping station deck.
+- Getting ink cartridges for the printer.
 
 
 <span class="icon-heart"></span>
