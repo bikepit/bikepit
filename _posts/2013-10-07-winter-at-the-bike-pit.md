@@ -40,4 +40,4 @@ We also created this Winter Projects list, which we welcome help from anyone wit
 - no more castle of trash in yard!!!!!  
 
 
-<3 <3 <3
+<span class="icon-heart"></span>
