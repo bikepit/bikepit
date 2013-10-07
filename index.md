@@ -3,7 +3,7 @@ layout: default
 title: The Bike Pit!
 ---
 
-![The Bike Pit]({{site.url}}/assets/bikepit.jpg)
+![The Bike Pit](https://s3.amazonaws.com/BikePit/images/bikepit.jpg)
 
 # A free, volunteer run bicycle shop.
 
