@@ -19,4 +19,4 @@ and a volunteer will gladly show you.
 Once you have been to the shop a few times and enjoyed yourself, becoming a volunteer may be the next step. Volunteers have access to the shop during non-standard hours, participate in collective decision making, and make this space possible. Volunteers usually commit to staffing a program of their choice on a regular basis. The rewards are many, and you will make some great friends along the way!
 
 * __Donate to the space__  
-We accept monetary donations to help us pay rent on the space, as well as keeping hard-to-salvage materials in stock. We also accept bicycles and bicycle parts.
+We accept bicycles and bicycle parts donations. This is how we are able to provide free access to parts during our programs. We also accept monetary donations to help us pay rent on the space, as well as keeping hard-to-salvage materials in stock.
