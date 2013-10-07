@@ -124,6 +124,7 @@ ul.posts span {
 }
 
 .site .container .writing {
+  padding: 1em;
   margin-bottom: 2em;
 }
 
@@ -185,7 +186,6 @@ ul.posts span {
   background: #222;
   color: #AAA;
   font-size: 1em;
-  padding: 1em;
   height: 8.45em;
   margin-top: -10.45em;
   clear: both;
@@ -196,6 +196,7 @@ ul.posts span {
 }
 
 .footer .foot-body {
+  padding: 1em;
   text-align: center;
   width: 36em;
   margin: 0 auto;
