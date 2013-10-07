@@ -79,7 +79,7 @@ ul.posts span {
 .post:last-of-type hr {display: none;}
 
 .post .title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0em;
 }
 
 .post .title a {
@@ -93,6 +93,8 @@ ul.posts span {
 }
 
 .post .date {
+  display: block;
+  margin-top: 1.1em;
   font-size: 0.9em;
   color: #aaa;
 }
