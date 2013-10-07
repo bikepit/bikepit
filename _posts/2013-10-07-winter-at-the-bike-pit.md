@@ -4,9 +4,16 @@ title: Winter at the Bike Pit
 categories: news
 ---
 
-Winter is coming. Winter Hours are going to start in November. We will be open Mondays and Tuesdays only, from 4-8 for fix a bike on Mondays and Tuesdays from 4-7 for Women and Transfolx fix and builds, the last Tuesday of the month will be build a bike (for anyone) from 3 till 7.
+Winter is coming, and we will be starting a new schedule in November. We will be open Mondays and Tuesdays only.
+ 
+| Date                  | Time   | What                                         |
+|-----------------------|--------|----------------------------------------------|
+| Mondays               | 4-8 PM | [Fix-a-Bike](#fix)                           |
+| Tuesdays              | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
+| Last Tuesday          | 3-7 PM | [Build-a-Bike](#build)                       |
+Unlike our summer and fall schedule, the __last__ Tuesday of every month is open to all people for the Build-a-Bike program.
 
-We also created this Winter Projects list, which we welcome help from anyone with:
+The following are our winter projects, and we welcome help from anyone with:
 
 - Finishing the shed outside.
 - Getting rid of all unusable parts and frames.
@@ -21,15 +28,14 @@ We also created this Winter Projects list, which we welcome help from anyone wit
 - Stripping bikes.
 - Organizing the coffee space.
 - Keeping things from rusting. (magic?)  
-- Obtain bike locks.
+- Obtaining bike locks.
 - Fixing the fridge.  
 - Making a sign for shop norms.  
-- Implement a free grocery store. Free snacks for all <span class="icon-heart"></span>
+- Implementing a free grocery store. Free snacks for all!
 - Making a drainage system for the yard.
-- Making signs for the exterior of Bike Pit.
+- Making signs for the exterior of Bike Pit!
 - Making our printed materials water-proof.
 - Winterizing the stripping station deck.
 - Getting ink cartridges for the printer.
-
 
 <span class="icon-heart"></span>
