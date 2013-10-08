@@ -299,10 +299,6 @@ ul.posts span {
     padding: 0 1em;
   }
 
-  .site .writing ul {
-    padding-left: 1em;
-  }
-
   img { 
     margin-left: -1em;
     width: 320px;
@@ -334,5 +330,9 @@ ul.posts span {
     height: 15.45em;
     margin-top: -16.45em;
     clear: both;
+  }
+
+  .site .writing ul {
+    padding-left: 1em;
   }
 }
