@@ -139,7 +139,7 @@ ul.posts span {
 
 .site .header a.title {
   display: block;
-  font-family: 'Bevan';
+  font-family: 'Bevan', 'Helvetica', sans-serif;
   color: #a00;
   font-size: 200%;
 }
@@ -293,7 +293,7 @@ ul.posts span {
   background-color: #333;
 }
 
-@media only screen and (max-width : 400px) {
+@media only screen and (max-width : 320px) {
   .site .container, .footer .foot-body {
     width: 18em;
   }
