@@ -296,7 +296,11 @@ ul.posts span {
 @media only screen and (max-width: 568px) {
   .site .container, .footer .foot-body {
     width: auto;
-    padding: 0 1em 0 2em;
+    padding: 0 1em;
+  }
+
+  ul {
+    padding-left: 1em;
   }
 
   img { 
