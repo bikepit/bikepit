@@ -186,7 +186,7 @@ ul.posts span {
   background: #222;
   color: #AAA;
   font-size: 1em;
-  height: 8.45em;
+  height: 10.45em;
   margin-top: -10.45em;
   clear: both;
 }
@@ -293,12 +293,20 @@ ul.posts span {
   background-color: #333;
 }
 
-@media only screen and (max-width : 320px) {
+@media only screen and (max-width: 568px) {
   .site .container, .footer .foot-body {
-    width: 18em;
+    width: auto;
+    padding: 0 1em;
   }
 
-  img { width: 18em;}
+  img { 
+    width: auto;
+  }
+
+  .site .header a.title {
+    display: block;
+    text-align: center;
+  }
 
   .site .header .navigation {
     text-align: center;
@@ -313,17 +321,13 @@ ul.posts span {
   }
 
   .site .container {
-    padding-bottom: 17em;
+    padding-bottom: 17.45em;
   }
 
   .footer {
-    background: #222;
-    color: #AAA;
-    font-size: 1em;
-    padding: 1em;
-    height: 15em;
-    margin-top: -17em;
+    padding: 1em 0;
+    height: 15.45em;
+    margin-top: -16.45em;
     clear: both;
   }
-
 }
