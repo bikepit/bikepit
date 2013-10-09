@@ -281,8 +281,7 @@ a:visited { color: #a00; }
   }
 
   img { 
-    margin-left: -1em;
-    width: 320px;
+    width: 100%;
   }
 
   .site .header a.title {
@@ -303,12 +302,12 @@ a:visited { color: #a00; }
   }
 
   .site .container {
-    padding-bottom: 17.45em;
+    padding-bottom: 17.40em;
   }
 
   .footer {
-    height: 17.45em;
-    margin-top: -17.45em;
+    height: 17.40em;
+    margin-top: -17.40em;
     clear: both;
   }
 
