@@ -47,7 +47,7 @@ th, td {
   padding: 0 2em 1em 0;
 }
 
-img { width: 36em;}
+img { width: 34em;}
 a         { color: #a00; transition: color 0.075s; }
 a:hover   { color: #000; }
 a:visited { color: #a00; }
