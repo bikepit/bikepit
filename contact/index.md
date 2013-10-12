@@ -20,4 +20,4 @@ or find us on [facebook](http://www.facebook.com/411bikepit). We also love talki
 
 ## Location
 
-We are located at 411 Lipan St., on the corner of 4th and Lipan. The right side of the fench is our entrance. Keep an eye out for bike wheels and upside down tall bikes for landmarks.
+We are located at 411 Lipan St., on the corner of 4th and Lipan. The right side of the fence is our entrance. Keep an eye out for bike wheels and upside down tall bikes for landmarks.
