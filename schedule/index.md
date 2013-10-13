@@ -18,7 +18,7 @@ The following are the dates and times of our programs and events.
 | Monday, October 14th  | 4-8 PM | [Fix-a-Bike](#fix)                           |
 | Tuesday, October 15th | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
 | Friday, October 18th  | noon-4 PM | [Fix-a-Bike](#fix)                           |
-| Saturday, October 19th| 6 PM   | __[Wheel-building class](/news/2013/10/12/wheel-building-class.html)__|
+| Sunday, October 20th  | 6 PM   | __[Wheel-building class](/news/2013/10/12/wheel-building-class.html)__|
 | Monday, October 21st  | 4-8 PM | [Fix-a-Bike](#fix)                           |
 | Tuesday, October 22nd | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
 | Friday, October 25th  | noon-4 PM | [Fix-a-Bike](#fix)                           |
