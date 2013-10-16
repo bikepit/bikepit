@@ -4,7 +4,7 @@ title: Wheel Building Class
 categories: news
 ---
 
-We are having a wheel building class at the Bike Pit! on __Sunday,&nbsp;October&nbsp;20th__ at __6:00&nbsp;PM__. Join us to learn more about wheel maintenance.
+We are having a wheel building class at the Bike Pit! on __Saturday,&nbsp;October&nbsp;26th__ at __5:00&nbsp;PM__. Join us to learn more about wheel maintenance.
 
 Topics that will be covered:
  
