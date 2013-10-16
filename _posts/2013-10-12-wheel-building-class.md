@@ -14,6 +14,6 @@ Topics that will be covered:
 
 The class consists of some volunteer demonstrations, followed by hands-on practice. Attendees should be able to fix most wheel-related issues after the class. 
 
-Snacks and beverages will be provided.
+Attendance is free. Snacks and beverages will be provided.
 
 <span class="icon-heart"></span>
