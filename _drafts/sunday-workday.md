@@ -2,5 +2,15 @@
 layout: post
 title: Sunday workday!
 ---
-Join us this Sunday, Oct. 20 from 1-4 at 411 Lipan for our Bike Pit workday. We have bikes to srip, parts to sort and
-stuff to clean before we start our winter hours next month.
+Join us this __Sunday, Oct. 20th__ from __1-4 PM__ the shop for a workday. Tasks we need help with:
+
+* Stripping bikes
+* Sorting parts
+* General cleanup
+
+We are transitioning to [winter hours](/news/2013/10/07/winter-at-the-bike-pit.html) on __November 27th__, and 
+we need your help to prepare.
+
+Snacks and beverages will be provided.
+
+<span class='icon-heart'></span>
