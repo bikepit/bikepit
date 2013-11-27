@@ -7,23 +7,24 @@ title: Schedule
 
 The following are the dates and times of our programs and events.
 
-## October, 2013
-***
-| Date                  | Time   | What                                                   |
-|-----------------------|--------|--------------------------------------------------------|
-| Monday, October 7th   | 4-8 PM | [Fix-a-Bike](#fix)                           |
-| Tuesday, October 8th  | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
-| Friday, October 11th  | noon-4 PM | [Fix-a-Bike](#fix)                           |
-| Sunday, October 13th  | 11-2 PM| [Youth Day ](#youth)                         |
-| Monday, October 14th  | 4-8 PM | [Fix-a-Bike](#fix)                           |
-| Tuesday, October 15th | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
-| Friday, October 18th  | noon-4 PM | [Fix-a-Bike](#fix)                           |
-| Sunday, October 20th  | 6 PM   | __[Wheel-building class](/news/2013/10/15/wheel-building-class.html)__|
-| Monday, October 21st  | 4-8 PM | [Fix-a-Bike](#fix)                           |
-| Tuesday, October 22nd | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
-| Friday, October 25th  | noon-4 PM | [Fix-a-Bike](#fix)                           |
+## December, 2013
 
-* We are closed for volunteer training the week of __October 27th__. We will reopen on __Monday, November 4th__ with [winter hours](/news/2013/10/07/winter-at-the-bike-pit.html).
+***
+
+| Date                   | Time   | What                                                   |
+|------------------------|--------|--------------------------------------------------------|
+| Monday, December 2nd   | 3-8 PM | [Fix-a-Bike](#fix)                           |
+| Tuesday, December 3rd  | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
+| Sunday, December 8th   | 1-4 PM | __Work Day__                          |
+| Monday, December 9th   | 3-8 PM | [Fix-a-Bike](#fix)                           |
+| Tuesday, December 10th | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
+| Sunday, December 15th  | 11-2 PM| [Youth Day ](#youth) |
+| Monday, December 16th  | 3-8 PM | [Fix-a-Bike](#fix)                           |
+| Tuesday, December 17th | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
+| Monday, December 23rd  | 3-8 PM | [Fix-a-Bike](#fix)                           |
+| Tuesday, December 24th | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
+| Monday, December 30th  | 3-8 PM | [Fix-a-Bike](#fix)                           |
+| Tuesday, December 31st | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
 
 ***
 
