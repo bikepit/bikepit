@@ -107,7 +107,7 @@ a:visited { color: #a00; }
 
 .site .container {
   width: 38em;
-  margin: 3em auto 2em;
+  margin: 1em auto 2em;
   padding-bottom: 10.45em;
 }
 
@@ -116,48 +116,54 @@ a:visited { color: #a00; }
   margin-bottom: 2em;
 }
 
-.site .header {
-  padding: 0 1em;
-  margin-bottom: 2em;
+.header {
+  padding: 0;
 }
 
-.site .header a {
+.banner {
+  background: #E05E43;
+  color:      #FFF;
+  text-align: center;
+}
+
+.banner a.title {
+  font-family: 'Fairview', 'Helvetica', sans-serif;
+  color: #fff;
+  font-size: 800%;
+}
+
+.header a {
   font-weight: bold;
   text-decoration: none;
 }
 
-.site .header a.title {
-  display: block;
-  font-family: 'Bevan', 'Helvetica', sans-serif;
-  color: #a00;
-  font-size: 200%;
-}
-
-.site .header a.title:hover {
+.header a.title:hover {
   color: #000;
 }
 
-.site .header .navigation {
+.header .navigation {
+  font-family: 'Fairview', 'Helvetica', sans-serif;
   list-style-type: none;
   overflow: hidden;
-  font-size: 90%;
-  margin-top: 2em;
+  font-size: 150%;
+
+  padding: 0.5em 0;
 }
 
-.site .header .navigation li {
+.header .navigation li {
   display: inline;
 }
 
-.site .header a.extra {
-  color: #aaa;
+.header a.extra {
+  color: #666;
   margin-right: 1em;
 }
 
-.site .header a.extra:visited {
-  color: #aaa;
+.header a.extra:visited {
+  color: #666;
 }
 
-.site .header a.extra:hover {
+.header a.extra:hover {
   color: #000;
 }
 
@@ -288,16 +294,16 @@ a:visited { color: #a00; }
     width: 100%;
   }
 
-  .site .header a.title {
+  .header a.title {
     display: block;
     text-align: center;
   }
 
-  .site .header .navigation {
+  .header .navigation {
     text-align: center;
   }
 
-  .site .header .navigation li {
+  .header .navigation li {
     display: block;
   }
 
