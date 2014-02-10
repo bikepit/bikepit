@@ -5,9 +5,7 @@ title: Schedule
 
 # Schedule
 
-The following are the dates and times of our programs and events.
-
-## December, 2013
+## February, 2014
 
 ***
 
@@ -21,6 +19,13 @@ The following are the dates and times of our programs and events.
 | Tuesday, February 25th | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
 | Monday, February 24th  | 3-8 PM | [Fix-a-Bike](#fix)                           |
 | Tuesday, February 25th | 4-7 PM | [Build-a-Bike](#build)                       |
+
+## March, 2014
+
+***
+
+| Date                   | Time   | Program                                      |
+|------------------------|--------|----------------------------------------------|
 | Monday, March 3rd      | 3-8 PM | [Fix-a-Bike](#fix)                           |
 | Tuesday, March 4th     | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
 | Sunday, March 9th      | 1-4 PM | [Youth Day ](#youth)                         |
