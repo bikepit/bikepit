@@ -11,7 +11,7 @@ The following are the dates and times of our programs and events.
 
 ***
 
-| Date                   | Time   | What                                         |
+| Date                   | Time   | Program                                      |
 |------------------------|--------|----------------------------------------------|
 | Monday, February 10th  | 3-8 PM | [Fix-a-Bike](#fix)                           |
 | Tuesday, February 3rd  | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
