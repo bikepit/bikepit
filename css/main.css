@@ -156,7 +156,7 @@ a:visited { color: #a00; }
 
 .header a.extra {
   color: #666;
-  margin-right: 1em;
+  margin: 0 0.5em;
 }
 
 .header a.extra:visited {
