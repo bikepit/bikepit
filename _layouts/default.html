@@ -10,13 +10,14 @@
         <script type="text/javascript" src="https://s3.amazonaws.com/BikePit/js/main.js"></script>
 
         <!-- Custom CSS -->
+        <link href='/fonts/fairview/stylesheet.css' rel='stylesheet' type='text/css'>
+
         <link rel="stylesheet" href="https://s3.amazonaws.com/BikePit/fonts/stylesheet.css">
-        <link rel="stylesheet" href="https://s3.amazonaws.com/BikePit/css/main.css">
+        <link rel="stylesheet" href="/css/main.css">
         <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 
         <link href='http://fonts.googleapis.com/css?family=Nunito:300,700' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700' rel='stylesheet' type='text/css'>
-
 
         <script type="text/javascript">
           var _gaq = _gaq || [];
@@ -31,19 +32,20 @@
         </script>
     </head>
     <body>
-
+        <div class="header">
+          <div class="banner">
+            <a class="title" href="/">{{ site.name }}</a>
+          </div>
+          <ul class="navigation">
+            <li><a class="extra" href="/blog/">Blog</a></li>
+            <li><a class="extra" href="/about">About</a></li>
+            <li><a class="extra" href="/schedule/">Schedule</a></li>
+            <li><a class="extra heart" href="/participate/">Participate</a></li>
+            <li><a class="extra" href="/contact">Contact</a></li>
+          </ul>
+        </div>
         <div class="site">
           <div class="container">
-            <div class="header">
-              <a class="title" href="/">{{ site.name }}</a>
-              <ul class="navigation">
-                <li><a class="extra" href="/blog/">Blog</a></li>
-                <li><a class="extra" href="/about">About</a></li>
-                <li><a class="extra" href="/schedule/">Schedule</a></li>
-                <li><a class="extra heart" href="/participate/">Participate</a></li>
-                <li><a class="extra" href="/contact">Contact</a></li>
-              </ul>
-            </div>
             <div class="writing">
               {{ content }}
             </div>
