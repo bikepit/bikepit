@@ -6,6 +6,8 @@ categories: news
 
 We are having a wheel building class at the Bike Pit! on __Saturday,&nbsp;October&nbsp;26th__ at __5:00&nbsp;PM__. Join us to learn more about wheel maintenance.
 
+<!--more-->
+
 Topics that will be covered:
  
 - Patching tubes

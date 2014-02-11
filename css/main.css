@@ -33,6 +33,7 @@ ul, ol { list-style-position: outside; }
 ul li { margin-bottom: 0.5em; }
 
 hr {
+  display: block;
   margin: 1em 0;
   border-style: solid;
   border-width: 1px 0px 0px 0px;
@@ -60,11 +61,11 @@ a:visited { color: #a00; }
 /*
 /*****************************************************************************/
 
-.post hr{
+.post-index hr{
   margin: 2em 0;
 }
 
-.post:last-of-type hr {display: none;}
+.post-index:last-of-type hr {display: none;} 
 
 .post .title {
   margin-bottom: 0em;
