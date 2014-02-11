@@ -65,7 +65,7 @@ parts for some projects, like single-speed/fixed
 gear conversions or working on higher end and 
 specialty components.
 
-_Every Monday 4-8pm and Friday noon-4pm_
+_Every Monday 3-8PM_
 
 ***
 
@@ -85,7 +85,7 @@ name pulled, first served basis. Because we have
 limited resources, we can build only one bike per 
 person each year.
 
-_First Thursday of each month 3-7PM_
+_Last Tuesday of each month 4-7PM_
 
 ***
 
@@ -106,7 +106,7 @@ that they were assigned at birth) not attend these
 shop hours, and instead check out our regular fix 
 or build times.
 
-_Every Tuesday 4-7PM_
+_Every Tuesday(except for the last) 4-7PM_
 
 ***
 
@@ -131,7 +131,7 @@ other programs are well suited to help you, please
 respect our youth and let them have this shop time 
 to themselves.
 
-_Second Sunday of each month 11-2PM_
+_Second Sunday of each month 1-4PM_
 
 ***
 

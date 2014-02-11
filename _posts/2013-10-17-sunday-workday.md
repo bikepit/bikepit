@@ -4,6 +4,8 @@ title: Sunday workday!
 ---
 Join us this __Sunday, October 20th__ from __1-4 PM__ the shop for a workday. 
 
+<!--more-->
+
 Tasks we need help with:
 
 * Stripping bikes

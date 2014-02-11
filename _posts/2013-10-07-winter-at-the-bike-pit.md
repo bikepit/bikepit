@@ -8,10 +8,12 @@ Winter is coming, and we will be starting a new schedule in November. We will be
  
 | Date                  | Time   | What                                         |
 |-----------------------|--------|----------------------------------------------|
-| Mondays               | 4-8 PM | [Fix-a-Bike](#fix)                           |
+| Mondays               | 3-8 PM | [Fix-a-Bike](#fix)                           |
 | Tuesdays              | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
-| Last Tuesday          | 3-7 PM | [Build-a-Bike](#build)                       |
+| Last Tuesday          | 4-7 PM | [Build-a-Bike](#build)                       |
 Unlike our summer and fall schedule, the __last__ Tuesday of every month is open to all people for the Build-a-Bike program.
+
+<!--more-->
 
 The following are our winter projects, and we welcome help from anyone with:
 
