@@ -5,37 +5,12 @@ title: Schedule
 
 # Schedule
 
-## February, 2014
-
-***
-
-| Date                   | Time   | Program                                      |
-|------------------------|--------|----------------------------------------------|
-| Monday, February 10th  | 3-8 PM | [Fix-a-Bike](#fix)                           |
-| Tuesday, February 3rd  | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
-| Monday, February 17th  | 3-8 PM | [Fix-a-Bike](#fix)                           |
-| Tuesday, February 18th | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
-| Monday, February 24th  | 3-8 PM | [Fix-a-Bike](#fix)                           |
-| Tuesday, February 25th | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
-| Monday, February 24th  | 3-8 PM | [Fix-a-Bike](#fix)                           |
-| Tuesday, February 25th | 4-7 PM | [Build-a-Bike](#build)                       |
-
-## March, 2014
-
-***
-
-| Date                   | Time   | Program                                      |
-|------------------------|--------|----------------------------------------------|
-| Monday, March 3rd      | 3-8 PM | [Fix-a-Bike](#fix)                           |
-| Tuesday, March 4th     | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
-| Sunday, March 9th      | 1-4 PM | [Youth Day ](#youth)                         |
-| Monday, March 10th     | 3-8 PM | [Fix-a-Bike](#fix)                           |
-| Tuesday, March 11th    | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
-| Monday, March 17th     | 3-8 PM | [Fix-a-Bike](#fix)                           |
-| Tuesday, March 18th    | 4-7 PM | [Women and Trans Shop Hours](#womenandtrans) |
-| Monday, March 24th     | 3-8 PM | [Fix-a-Bike](#fix)                           |
-| Tuesday, March 25th    | 4-7 PM | [Build-a-Bike](#build)                       |
-| Monday, March 31st     | 3-8 PM | [Fix-a-Bike](#fix)                           |
+| Program                                       | When                                        |
+|-----------------------------------------------|---------------------------------------------|
+| [Fix-a-Bike](#fix)                            | Every Monday, __3-8PM__                     |
+| [Women and Trans* Shop Hours](#womenandtrans) | Every Tuesday( except the last ), __4-7PM__ |
+| [Youth Day ](#youth)                          | Second Sunday, __1-4PM__                    |
+| [Build-a-Bike](#build)                        | Last Tuesday, __4-7PM__                     |
 
 ***
 
@@ -91,7 +66,7 @@ _Last Tuesday of each month 4-7PM_
 
 <a id="womenandtrans"></a>
 
-## Women and Trans Shop Hours <a id="womenandtrans"></a>
+## Women and Trans* Shop Hours <a id="womenandtrans"></a>
 A time for trans* and female identified folks 
 (anyone that identifies within the transgender and/
 or gender-variant umbrella) to build and fix bikes. 
